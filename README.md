@@ -32,3 +32,10 @@ Not ekle ve Notlarım sayfasını göreceksiniz.Not ekle sayfasından direkt ola
 Notlarım sayfasında ise hem notlarınızın listelenmiş hallerini görebilirsiniz, hem de değiştirebilir veya silebilirsiniz.Değiştirmek istediğinizde ise bir form daha karşınıza çıkacak.
 
 
+## Sayfa görüntüleri
+
+![1](https://user-images.githubusercontent.com/56171006/122464880-05a06400-cfc0-11eb-810d-6dc8ad9725f7.png)
+![2](https://user-images.githubusercontent.com/56171006/122464889-0802be00-cfc0-11eb-9a1c-d886c44f40bf.png)
+![3](https://user-images.githubusercontent.com/56171006/122464896-0a651800-cfc0-11eb-8a9b-21b668c53922.png)
+![4](https://user-images.githubusercontent.com/56171006/122464908-0cc77200-cfc0-11eb-8b55-edc29f80986a.png)
+![5](https://user-images.githubusercontent.com/56171006/122464914-0e913580-cfc0-11eb-916e-bbb01ae2f12d.png)
