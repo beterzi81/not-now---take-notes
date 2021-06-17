@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+a {
+    color: #fff !important;
+}
+
+.navbar-light {
+    background-color: #54afda !important;
+}
+
+.carousel {
+    height: 100% !important;
+}
+
+.center {
+    text-align: center !important;
+    align-items: center !important;
+}
+
+form {
+    display: inline-block;
+}
+
+.color {
+    color: rgb(57, 101, 151) !important;
+}
+
+.margin {
+    margin-left: 2%;
+}
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #54afda !important;
+    border: none !important;
+}
+
+.navbar {
+    height: 30% !important;
+}
